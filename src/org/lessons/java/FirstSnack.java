@@ -17,5 +17,7 @@ public class FirstSnack {
             System.out.println("Il numero è dispari: " + (n + 1));
         }
 
+        scan.close();
+
     }
 }
